@@ -1,0 +1,1 @@
+document.getElementById(demo).innerHTML = "Don't giveup Celine, keep pushing";
